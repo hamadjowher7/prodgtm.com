@@ -1,0 +1,7 @@
+<svg width="188" height="48" viewBox="0 0 188 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ProdGTM logo</title>
+  <desc id="desc">Text-only ProdGTM wordmark with Prod and GTM in different colors.</desc>
+  <text x="0" y="34" font-family="Inter, Geist, Arial, sans-serif" font-size="34" font-weight="760" letter-spacing="0">
+    <tspan fill="#F4F7FA">Prod</tspan><tspan fill="#39FF88">GTM</tspan>
+  </text>
+</svg>
