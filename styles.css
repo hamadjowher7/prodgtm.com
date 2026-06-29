@@ -469,8 +469,34 @@ h3 {
   font-weight: 760;
 }
 
-.product-card h3 {
+.product-name {
+  display: flex;
+  align-items: center;
+  gap: 14px;
   margin-top: 42px;
+}
+
+.product-logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  border-radius: 13px;
+  border: 1px solid rgba(57, 255, 136, 0.28);
+  background: rgba(57, 255, 136, 0.08);
+  color: var(--green);
+}
+
+.product-logo svg {
+  display: block;
+  width: 26px;
+  height: 26px;
+}
+
+.product-card h3 {
+  margin: 0;
 }
 
 .product-card p {
